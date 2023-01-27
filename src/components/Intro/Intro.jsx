@@ -30,7 +30,16 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hey! It's me</span>
           <span>Sunil Shrestha</span>
           <span>
-            Frontend Developer with in react js. I am Experienced in product photography as well.
+            In my portfolio, you will find a diverse range of projects that showcase my skills as a React JS developer and product photographer. My experience in React JS development includes building user interfaces and web applications using the latest features of the framework. I am adept at creating efficient and dynamic web pages utilizing components, state management, and other features of React.<br/>
+
+As a product photographer, I have a keen eye for detail and an ability to showcase products in their best light. I have experience in capturing high-quality images of products for commercial or marketing use using professional lighting techniques, composition and post-processing. My photography portfolio includes a wide range of products such as fashion, consumer electronics, food, jewelry, and many more. I am able to create visually appealing images that are designed to attract the attention of potential customers.<br />
+
+Overall, my portfolio showcases my ability to create visually appealing and functional web pages and my skills in capturing high-quality product images. I am always looking for new challenges and opportunities to continue to develop my skills and produce outstanding work.
+
+
+
+
+
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
